@@ -2,7 +2,7 @@
 - 👀 I’m interested in data analytics
 - 🌱 I’m currently learning python and sql
 - 💞️ I’m looking to collaborate on data analysis projects
-- I love :coffee: :books:, and :artist:
+- I love :coffee:coffee :books: books, and 🖌️painting
 
 
 <!---
