@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Nelly254
+- 👋 Hi, I’m Nelly
 - 👀 I’m interested in data analytics
 - 🌱 I’m currently learning python and sql
-- 💞️ I’m looking to collaborate on data analysis beginner projects
+- 💞️ I’m looking to collaborate on data analysis projects
 - I love :coffee: :books:, and :artist:
 
 
